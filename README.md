@@ -4,7 +4,7 @@
 ### Hi there 👋 I'm  Shivani - aka **svermauk**(https://github.com/svermauk).
 
 - 🔭 I’m currently working as PhD scholar at IIT Kanpur.
-- 📝 I’m currently writing my thesis.
+- 📝 I have submitted my thesis.
 - 💬 Ask me about coding for chemistry.
 - 💻 **Programming experience** 
       
