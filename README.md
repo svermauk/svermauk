@@ -8,7 +8,7 @@
 - 💬 Ask me about coding for chemistry.
 - 💻 **Programming experience** 
       
-      FORTRAN, Python, bash/shell, C, C++
+      FORTRAN, Python, bash/shell
 
 ### 📫 Connect with me:
 
